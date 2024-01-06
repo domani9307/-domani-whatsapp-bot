@@ -1,8 +1,8 @@
  {
   "timeZone": "Asia/Jakarta",
   "language": "en",
-  "ownerNumber": ["", ""],
-  "readStatus": false,
+  "ownerNumber": ["+254739543193", "+254739543193"],
+  "autoviewStatus": true,
   "readMessage": false,
   "antiCall": {
     "reject": false,
